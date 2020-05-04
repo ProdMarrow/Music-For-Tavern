@@ -1,0 +1,2 @@
+mySound = new Audio('Tavern Idea.mp3');
+mySound.play()
